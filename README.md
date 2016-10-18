@@ -1,7 +1,7 @@
 # SlideView
 > SlideView which is similar to Pivot Menu in Windows.
 
-This is a binding project done based on https://www.cocoacontrols.com/controls/hhslideview Courtesy to Herbert77.
+This is a binding project done based on https://www.cocoacontrols.com/controls/hhslideview.
 
 ## Usage
 
