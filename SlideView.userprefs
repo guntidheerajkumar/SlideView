@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9502F4AB-9D49-44BB-BB43-8A4BA2AF1AE5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SlideView/ApiDefinition.cs">
+    <Files>
+      <File FileName="SampleSlideView/ViewController.cs" Line="35" Column="1" />
+      <File FileName="SampleSlideView/ThirdController.cs" Line="20" Column="4" />
+      <File FileName="SampleSlideView/SecondController.cs" Line="19" Column="45" />
+      <File FileName="SampleSlideView/FirstController.cs" Line="19" Column="44" />
+      <File FileName="SlideView/ApiDefinition.cs" Line="13" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SampleSlideView PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A84BE647-1097-441C-BDE6-F254F9642D5C" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
